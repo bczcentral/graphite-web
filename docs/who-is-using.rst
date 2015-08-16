@@ -3,6 +3,7 @@ Who is using Graphite?
 
 Here are some organizations that use Graphite:
 
+* `BCZ.com <http://bcz.com/>`_
 * `Brightcove <http://www.brightcove.com>`_ (see http://opensource.brightcove.com/project/Diamond/)
 * `Canonical <http://www.canonical.com>`_
 * `Datacratic <http://www.datacratic.com>`_
